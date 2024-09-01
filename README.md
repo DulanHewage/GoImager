@@ -32,7 +32,7 @@ The server will start on `http://localhost:8080`.
 
 - `POST /resize`: Resize an image
 - `POST /convert`: Convert an image to a different format
-- `POST /optimize`: Optimize an image for web use
+- `POST /optimize`: Optimize an image for web use :: **TODO**
 
 For detailed API documentation, please see our API Guide.
 
