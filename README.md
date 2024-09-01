@@ -8,7 +8,6 @@ Go-based microservice for resizing, converting, and optimizing images
 - Convert images between formats (JPEG, PNG, GIF)
 - Optimize images for web use
 - RESTful API for easy integration
-- Efficient processing using Go's concurrency
 
 ## Quick Start
 
@@ -33,8 +32,6 @@ The server will start on `http://localhost:8080`.
 - `POST /resize`: Resize an image
 - `POST /convert`: Convert an image to a different format
 - `POST /optimize`: Optimize an image for web use :: **TODO**
-
-For detailed API documentation, please see our API Guide.
 
 ## Configuration
 
